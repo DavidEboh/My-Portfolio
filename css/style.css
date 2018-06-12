@@ -1,0 +1,49 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+
+.jumbotron {
+  background-image: url("http://static-29.sinclairstoryline.com/resources/media/e3e5a3c4-b48e-45c8-baf4-75c6541ba3bf-large16x9_TexasTechuniversityFile.jpg?1516042434513");
+  background-size: cover;
+  color: white;
+  box-shadow: 0px 2px 5px grey;
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
+
+.rectangle {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.contact-i {
+  margin-left: 20px;
+  color: #f0603a;
+}
+
+.about-text {
+  font-size: 15px;
+  text-align: left;
+}
+
+.fancy-heading {
+  font-family: "Times New Roman", cursive;
+}
+
+.bigger-h2 {
+  font-size: 50px;
+}
+
+.fancy-h4 {
+  padding-bottom: 10px;
+  font-family: "Quicksand", sans-serif;
+}
+
+a:hover {
+  text-decoration: none;
+}
