@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Deboh/pen/wjNrJW.
-
- 
+A portfolio (still in the works) about some of my projects.
+More will be added.
